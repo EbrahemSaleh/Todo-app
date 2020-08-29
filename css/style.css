@@ -14,7 +14,7 @@
 
 body {
     margin: 0;
-    font-family: "Work Sans", sans-serif;
+    font-family:'Roboto', sans-serif;
     font-weight: 300;
     font-size: 1.5rem;
     background-color: var(--clr-primary);
