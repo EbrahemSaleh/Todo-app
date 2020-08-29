@@ -1,5 +1,5 @@
 :root {
-    --clr-primary: rgb(54, 112, 199);
+    --clr-primary: rgb(35 ,49, 62);
     --clr-light: #f4f4f4;
     --clr-dark: #333;
     --clr-warning: rgb(99, 36, 36);
@@ -28,7 +28,7 @@ body {
     text-align: center;
     font-size: calc(7vw + 2rem);
     font-weight: 900;
-    color: rgba(0, 0, 0, 0.1);
+    color: rgba(0, 0, 0, 0.2);
     letter-spacing: 2px;
     margin: 0.2em 0 0.5em;
 }
